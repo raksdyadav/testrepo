@@ -1,1 +1,2 @@
 Welcome to git
+Now we can learn some more commands
